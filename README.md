@@ -27,8 +27,7 @@ These visuals showcase the app's complete overhaul: from XML, RxJava, MVVM, Java
 
 
 <details>
-  <summary><span style="color:blue">
- <div style="text-align: right">Load more...</div></span></summary>
+  <summary><span style="color:blue"><div style="text-align: right">Load more...</div></span></summary>
 
 
 
@@ -51,10 +50,9 @@ These visuals showcase the app's complete overhaul: from XML, RxJava, MVVM, Java
 
 
 
-</details>
+</details>    
 
-\
-\
+
 ## **Ahmednagar Pay Tax**
 
 Simplify your life in Ahmednagar with the official AMC app! Find contact information for officials, explore all city services, and navigate with the built-in map. Plus, pay your property and water taxes conveniently using your debit or credit card. 
