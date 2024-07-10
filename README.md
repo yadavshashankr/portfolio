@@ -22,6 +22,6 @@
 These images & videos demonstrate that the app has been refactored from XML, RxJava, MVVM, Java, Multi-Threading to Jetpack Compose, Flows (StateFlow and CallbackFlow majorly), MVVM Clean, Kotlin, Coroutines, TDD with Unit, Instrumentation and UI testing. Github-Actions for CI-CD.
 
 
-  Login with Credentials   |   Login with Biometrics   |    Landing                             
-:-------------------------:|:-------------------------:|:-------------:
-![](/assets/vid/Login_With_Credentials.gif) | ![](assets/vid/Login_With_Biometrics.gif) | ![](assets/vid/Landing.gif)
+  Login with Credentials   |   Login with Biometrics                            
+:-------------------------:|:-------------------------:
+![](/assets/vid/Login_With_Credentials.gif) | ![](assets/vid/Login_With_Biometrics.gif)
