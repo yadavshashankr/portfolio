@@ -73,10 +73,12 @@ Simplify your life in Ahmednagar with the official AMC app! Find contact informa
 :------------:
 ![](/assets/vid/ahmednagar/Local_Map.gif)
 
+
+</details> 
+
+
 <style>
 details > summary {
     list-style-type: none;
 }
 </style>
-
-</details> 
