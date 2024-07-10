@@ -26,8 +26,8 @@ These visuals showcase the app's complete overhaul: from XML, RxJava, MVVM, Java
 :-------------------------:|:-------------------------:
 ![](/assets/vid/spendlink/Login_With_Credentials.gif) | ![](assets/vid/spendlink/Login_With_Biometrics.gif)
 
-     Landing    |   Dashboard                            
-:--------------:|:-------------:
+   Landing    |   Dashboard                            
+:------------:|:-------------:
 ![](/assets/vid/spendlink/Landing.gif) | ![](assets/vid/spendlink/Dashboard.gif)
 
   Expense Details   |   Cards                            
