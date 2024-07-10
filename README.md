@@ -13,5 +13,5 @@
  ##### - Performance analytics - Profiling for memory, storage, energy. Memory leaks removal
  ##### - Source control / Versioning - Git, Github, SVN
  ##### - Devices - Smartphones, Watches, Tablets, KIOSK, Point of Sale, Thermal Printers
-
+ 
 # Portfolio
