@@ -25,7 +25,7 @@ These visuals showcase the app's complete overhaul: from XML, RxJava, MVVM, Java
 :-------------------------:|:-------------------------:
 ![](/assets/vid/spendlink/Login_With_Credentials.gif) | ![](assets/vid/spendlink/Login_With_Biometrics.gif)
 
-<details><summary><h3><span style="color:blue font-size:2.0em;"><b>Load more...</b></span></summary></h3>
+<details><summary><h3><span style="color:blue font-size:2.0em;"><b>Load more...</b></span></h3></summary>
 
 
 
@@ -60,7 +60,7 @@ Simplify your life in Ahmednagar with the official AMC app! Find contact informa
 ![](/assets/vid/ahmednagar/Registration_Login.gif) | ![](assets/vid/ahmednagar/Login.gif)
 
 
-<details><summary><span style="color:blue font-size:2.0em;"><b>Load more...</b></span></summary>
+<details><summary><h3><span style="color:blue font-size:2.0em;"><b>Load more...</b></span></h3></summary>
 
 
 
