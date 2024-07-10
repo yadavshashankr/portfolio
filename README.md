@@ -58,8 +58,8 @@ These visuals showcase the app's complete overhaul: from XML, RxJava, MVVM, Java
 
 Simplify your life in Ahmednagar with the official AMC app! Find contact information for officials, explore all city services, and navigate with the built-in map. Plus, pay your property and water taxes conveniently using your debit or credit card. 
 
-   Post Login   |   Navigation                            
-:--------------:|:-------------:
+  Post Login     |    Navigation                            
+:---------------:|:---------------:
 ![](/assets/vid/ahmednagar/Post_Login_Landing.gif) | ![](assets/vid/ahmednagar/Landing.gif)
 
 
