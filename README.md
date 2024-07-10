@@ -31,7 +31,7 @@ Landing  | Dashboard
 
   Login with Credentials   |   Login with Biometrics                            
 :-------------------------:|:-------------------------:
-![](/assets/vid/spendlink/Login_With_Credentials.gif) | ![](assets/vid/spendlink/Login_With_Biometrics.gif)
+<img src="/assets/vid/spendlink/Login_With_Credentials.gif" width=50% height=50%> | <img src="assets/vid/spendlink/Login_With_Biometrics.gif" width=50% height=50%>
 
   Expense Details   |   Cards                            
 :------------------:|:--------:
