@@ -25,3 +25,7 @@ These images & videos demonstrate that the app has been refactored from XML, RxJ
   Login with Credentials   |   Login with Biometrics                            
 :-------------------------:|:-------------------------:
 ![](/assets/vid/Login_With_Credentials.gif) | ![](assets/vid/Login_With_Biometrics.gif)
+
+  Landing   |   Dashboard                            
+:----------:|:-------------:
+![](/assets/vid/Landing.gif) | ![](assets/vid/Dashboard.gif)
