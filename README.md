@@ -25,7 +25,7 @@ These visuals showcase the app's complete overhaul: from XML, RxJava, MVVM, Java
 :-------------------------:|:-------------------------:
 ![](/assets/vid/spendlink/Login_With_Credentials.gif) | ![](assets/vid/spendlink/Login_With_Biometrics.gif)
 
-<details><summary><span style="color:blue font-size:2.0em;"><b> ### Load more...</b></span></summary>
+<details><summary><span style="color:blue font-size:2.0em;"><b><h3>Load more...</h3></b></span></summary>
 
 
 
