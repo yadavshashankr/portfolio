@@ -17,7 +17,7 @@
 # Portfolio
 ## **SpendLink**
 
-#### Since we know how Credit Card expense statement / bill / report can take up to a month. Organizations who already did the expenditure, couldn't trace its progress status and this could lead to un-expected, non-required processes and delays. SpendLink was created considering real-time reports, with individual Expense and Card management in mind.
+Since we know how Credit Card expense statement / bill / report can take up to a month. Organizations who already did the expenditure, couldn't trace its progress status and this could lead to un-expected, non-required processes and delays. SpendLink was created considering real-time reports, with individual Expense and Card management in mind.
 
 These images & videos demonstrate that the app has been refactored from XML, RxJava, MVVM, Java, Multi-Threading to Jetpack Compose, Flows (StateFlow and CallbackFlow majorly), MVVM Clean, Kotlin, Coroutines, TDD with Unit, Instrumentation and UI testing. Github-Actions for CI-CD.
 
