@@ -75,10 +75,3 @@ Simplify your life in Ahmednagar with the official AMC app! Find contact informa
 
 
 </details> 
-
-
-<style>
-details > summary {
-    list-style-type: none;
-}
-</style>
