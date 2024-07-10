@@ -28,7 +28,6 @@ These visuals showcase the app's complete overhaul: from XML, RxJava, MVVM, Java
 <details>
   <summary>...view more</summary>
   
-
    Landing    |   Dashboard                            
 :------------:|:-------------:
 ![](/assets/vid/spendlink/Landing.gif) | ![](assets/vid/spendlink/Dashboard.gif)
@@ -44,6 +43,7 @@ These visuals showcase the app's complete overhaul: from XML, RxJava, MVVM, Java
   White Labeling   |   Old App                            
 :-----------------:|:----------:
 ![](/assets/vid/spendlink/White-Labeling.gif) | ![](assets/vid/spendlink/Old_App.gif)
+
 </details>
 
 ## **Ahmednagar Pay Tax**
