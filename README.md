@@ -22,8 +22,7 @@ Tired of waiting for slow credit card reports? SpendLink offers real-time expens
 
 These visuals showcase the app's complete overhaul: from XML, RxJava, MVVM, Java, and multi-threading to Jetpack Compose, Flows (mainly StateFlow and CallbackFlow), MVVM Clean, Kotlin, Coroutines, and TDD with Unit, Instrumentation, and UI testing. Github Actions handle CI/CD.
 
-  Landing   |   Dashboard                           
-:----------:|:-------------:
+  Landing   |   Dashboard      
 
 <p align="center">
       <img src="/assets/vid/spendlink/Landing.gif" align="left">
