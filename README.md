@@ -21,10 +21,13 @@ Tired of waiting for slow credit card reports? SpendLink offers real-time expens
 
 These visuals showcase the app's complete overhaul: from XML, RxJava, MVVM, Java, and multi-threading to Jetpack Compose, Flows (mainly StateFlow and CallbackFlow), MVVM Clean, Kotlin, Coroutines, and TDD with Unit, Instrumentation, and UI testing. Github Actions handle CI/CD.
 
-
   Login with Credentials   |   Login with Biometrics                            
 :-------------------------:|:-------------------------:
 ![](/assets/vid/spendlink/Login_With_Credentials.gif) | ![](assets/vid/spendlink/Login_With_Biometrics.gif)
+
+<details>
+  <summary>...view more</summary>
+  
 
    Landing    |   Dashboard                            
 :------------:|:-------------:
@@ -41,7 +44,7 @@ These visuals showcase the app's complete overhaul: from XML, RxJava, MVVM, Java
   White Labeling   |   Old App                            
 :-----------------:|:----------:
 ![](/assets/vid/spendlink/White-Labeling.gif) | ![](assets/vid/spendlink/Old_App.gif)
-
+</details>
 
 ## **Ahmednagar Pay Tax**
 
