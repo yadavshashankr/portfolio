@@ -25,7 +25,7 @@ These visuals showcase the app's complete overhaul: from XML, RxJava, MVVM, Java
 :-------------------------:|:-------------------------:
 ![](/assets/vid/spendlink/Login_With_Credentials.gif) | ![](assets/vid/spendlink/Login_With_Biometrics.gif)
 
-<p align="right"><details><summary><span style="color:blue"><b>Load more...</b></span></summary>
+<details><p align="right"><summary><span style="color:blue"><b>Load more...</b></span></summary></p>
 
 
 
@@ -48,7 +48,7 @@ These visuals showcase the app's complete overhaul: from XML, RxJava, MVVM, Java
 
 
 
-</details></p>
+</details>
 
 
 ## **Ahmednagar Pay Tax**
