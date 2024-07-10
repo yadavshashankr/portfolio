@@ -17,27 +17,44 @@
 # Portfolio
 ## **SpendLink**
 
-Since we know how Credit Card expense statement / bill / report can take up to a month. Organizations who already did the expenditure, couldn't trace its progress status and this could lead to un-expected, non-required processes and delays. SpendLink was created considering real-time reports, with individual Expense and Card management in mind.
+Tired of waiting for slow credit card reports? SpendLink offers real-time expense tracking and individual card management, eliminating delays and unnecessary processes.
 
-These images & videos demonstrate that the app has been refactored from XML, RxJava, MVVM, Java, Multi-Threading to Jetpack Compose, Flows (StateFlow and CallbackFlow majorly), MVVM Clean, Kotlin, Coroutines, TDD with Unit, Instrumentation and UI testing. Github-Actions for CI-CD.
+These visuals showcase the app's complete overhaul: from XML, RxJava, MVVM, Java, and multi-threading to Jetpack Compose, Flows (mainly StateFlow and CallbackFlow), MVVM Clean, Kotlin, Coroutines, and TDD with Unit, Instrumentation, and UI testing. Github Actions handle CI/CD.
 
 
   Login with Credentials   |   Login with Biometrics                            
 :-------------------------:|:-------------------------:
-![](/assets/vid/Login_With_Credentials.gif) | ![](assets/vid/Login_With_Biometrics.gif)
+![](/assets/vid/spendlink/Login_With_Credentials.gif) | ![](assets/vid/spendlink/Login_With_Biometrics.gif)
 
   Landing   |   Dashboard                            
 :----------:|:-------------:
-![](/assets/vid/Landing.gif) | ![](assets/vid/Dashboard.gif)
+![](/assets/vid/spendlink/Landing.gif) | ![](assets/vid/spendlink/Dashboard.gif)
 
   Expense Details   |   Cards                            
 :------------------:|:--------:
-![](/assets/vid/Expense_Details.gif) | ![](assets/vid/Cards.gif)
+![](/assets/vid/spendlink/Expense_Details.gif) | ![](assets/vid/spendlink/Cards.gif)
 
   Create Expense   |   Create Card                            
 :-----------------:|:--------------:
-![](/assets/vid/Create_Expense.gif) | ![](assets/vid/Create_Card.gif)
+![](/assets/vid/spendlink/Create_Expense.gif) | ![](assets/vid/spendlink/Create_Card.gif)
 
   White Labeling   |   Old App                            
 :-----------------:|:----------:
-![](/assets/vid/White-Labeling.gif) | ![](assets/vid/Old_App.gif)
+![](/assets/vid/spendlink/White-Labeling.gif) | ![](assets/vid/spendlink/Old_App.gif)
+
+
+## **Ahmednagar Pay Tax**
+
+Simplify your life in Ahmednagar with the official AMC app! Find contact information for officials, explore all city services, and navigate with the built-in map. Plus, pay your property and water taxes conveniently using your debit or credit card. 
+
+ Registration & Login   |   Login                            
+:----------------------:|:--------:
+![](/assets/vid/ahmednagar/Registration_Login.gif) | ![](assets/vid/ahmednagar/Login.gif)
+
+  Post Login   |   Landing                            
+:-------------:|:-------------:
+![](/assets/vid/ahmednagar/Post_Login_Landing.gif) | ![](assets/vid/ahmednagar/Landing.gif)
+
+  Local map   |                            
+:------------------:|:--------:
+![](/assets/vid/ahmednagar/Local_Map.gif)
