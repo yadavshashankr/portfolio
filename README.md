@@ -31,7 +31,7 @@ These visuals showcase the app's complete overhaul: from XML, RxJava, MVVM, Java
 
   Login with Credentials   |   Login with Biometrics                            
 :-------------------------:|:-------------------------:
-![](/assets/vid/spendlink/Login_With_Credentials.gif){: width="50%"} | ![](assets/vid/spendlink/Login_With_Biometrics.gif){: width="50%"}
+![](/assets/vid/spendlink/Login_With_Credentials.gif)' ' | ![](assets/vid/spendlink/Login_With_Biometrics.gif)' '
 
   Expense Details   |   Cards                            
 :------------------:|:--------:
