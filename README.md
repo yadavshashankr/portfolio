@@ -26,7 +26,7 @@ These visuals showcase the app's complete overhaul: from XML, RxJava, MVVM, Java
 ![](/assets/vid/spendlink/Login_With_Credentials.gif) | ![](assets/vid/spendlink/Login_With_Biometrics.gif)
 
 <details>
-  <summary>Load more</summary>
+  <summary><div style="text-align: right"><span style="color:blue">**Load more...**</span></div></summary>
 
 
  
@@ -50,6 +50,9 @@ These visuals showcase the app's complete overhaul: from XML, RxJava, MVVM, Java
 
 </details>
 
+\
+\
+\
 ## **Ahmednagar Pay Tax**
 
 Simplify your life in Ahmednagar with the official AMC app! Find contact information for officials, explore all city services, and navigate with the built-in map. Plus, pay your property and water taxes conveniently using your debit or credit card. 
