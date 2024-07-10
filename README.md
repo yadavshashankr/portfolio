@@ -24,7 +24,7 @@ These visuals showcase the app's complete overhaul: from XML, RxJava, MVVM, Java
 
   Landing   |   Dashboard                            
 :----------:|:-------------:     
-![alt](/assets/vid/spendlink/Landing.gif) <br />    | ![](assets/vid/spendlink/Dashboard.gif) <br />   
+![alt](/assets/vid/spendlink/Landing.gif) <br /> <br />    | ![](assets/vid/spendlink/Dashboard.gif) <br /> <br />  
 
 <details><summary><span style="color:blue"><font size="3"><b>Load more...</b></font></span></summary>
 
