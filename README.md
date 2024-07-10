@@ -24,14 +24,14 @@ These visuals showcase the app's complete overhaul: from XML, RxJava, MVVM, Java
 
   Landing   |   Dashboard                           
 :----------:|:-------------:
-<img src="/assets/vid/spendlink/Landing.gif" width=75% height=75%> | <img src="assets/vid/spendlink/Dashboard.gif" width=75% height=75%>
+<img src="/assets/vid/spendlink/Landing.gif" width=80% height=80%> | <img src="assets/vid/spendlink/Dashboard.gif" width=75% height=75%>
 
 <details><summary><span style="color:blue"><font size="3"><b>Load more...</b></font></span></summary>
 
 
   Login with Credentials   |   Login with Biometrics                            
 :-------------------------:|:-------------------------:
-<img src="/assets/vid/spendlink/Login_With_Credentials.gif" width=75% height=75%> | <img src="assets/vid/spendlink/Login_With_Biometrics.gif" width=75% height=75%>
+<img src="/assets/vid/spendlink/Login_With_Credentials.gif" width=80% height=80%> | <img src="assets/vid/spendlink/Login_With_Biometrics.gif" width=75% height=75%>
 
   Expense Details   |   Cards                            
 :------------------:|:--------:
