@@ -15,6 +15,9 @@
  - **Devices** - Smartphones, Watches, Tablets, KIOSK, Point of Sale, Thermal Printers
  
 # Portfolio
+<br />
+<br />
+<br />
 ## **SpendLink**
 
 Tired of waiting for slow credit card reports? SpendLink offers real-time expense tracking and individual card management, eliminating delays and unnecessary processes.
@@ -48,7 +51,7 @@ These visuals showcase the app's complete overhaul: from XML, RxJava, MVVM, Java
 
 
 </details>
-````
+<br />
 <br />
 <br />
 <br />
