@@ -15,7 +15,6 @@
  - **Devices** - Smartphones, Watches, Tablets, KIOSK, Point of Sale, Thermal Printers
  
 # Portfolio
-<br />
 
 ## **SpendLink**
 
