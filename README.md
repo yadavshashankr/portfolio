@@ -22,6 +22,6 @@
 These images & videos demonstrate that the app has been refactored from XML, RxJava, MVVM, Java, Multi-Threading to Jetpack Compose, Flows (StateFlow and CallbackFlow majorly), MVVM Clean, Kotlin, Coroutines, TDD with Unit, Instrumentation and UI testing. Github-Actions for CI-CD.
 
 
-  Login with Credentials   |   Login with Biometrics                    Landing   |   Dashboard                           
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/yadavshashankr/portfolio/assets/81215694/a5e0be5e-9e54-461f-8493-44ae08a3dfc9)  |  ![](https://github.com/yadavshashankr/portfolio/assets/81215694/0877d64f-3136-4baf-82c4-945dcd8f9177) | ![](https://github.com/yadavshashankr/portfolio/assets/81215694/0877d64f-3136-4baf-82c4-945dcd8f9177) |  ![](https://github.com/yadavshashankr/portfolio/assets/81215694/7640f336-9a19-4d16-a0ea-ed623c7d6ed5)
+  Login with Credentials   |   Login with Biometrics          Landing    |   Dashboard                           
+:-------------------------:|:-------------------------:|:---------------:|:--------------:
+![](https://github.com/yadavshashankr/portfolio/assets/81215694/a5e0be5e-9e54-461f-8493-44ae08a3dfc9) | ![](https://github.com/yadavshashankr/portfolio/assets/81215694/0877d64f-3136-4baf-82c4-945dcd8f9177) | ![](https://github.com/yadavshashankr/portfolio/assets/81215694/0877d64f-3136-4baf-82c4-945dcd8f9177) |  ![](https://github.com/yadavshashankr/portfolio/assets/81215694/7640f336-9a19-4d16-a0ea-ed623c7d6ed5)
