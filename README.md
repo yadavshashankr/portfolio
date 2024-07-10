@@ -27,9 +27,9 @@ These visuals showcase the app's complete overhaul: from XML, RxJava, MVVM, Java
 
 
 <details>
- <div style="text-align: right">
-  <summary><span style="color:blue">Load more...</span></summary>
- </div>
+  <summary><span style="color:blue">
+ <div style="text-align: right">Load more...</div></span></summary>
+
 
 
  
