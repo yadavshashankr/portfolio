@@ -16,7 +16,6 @@
  
 # Portfolio
 <br />
-<br />
 
 ## **SpendLink**
 
@@ -51,7 +50,6 @@ These visuals showcase the app's complete overhaul: from XML, RxJava, MVVM, Java
 
 
 </details>
-<br />
 <br />
 <br />
 <br />
