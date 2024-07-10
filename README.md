@@ -21,18 +21,17 @@ Tired of waiting for slow credit card reports? SpendLink offers real-time expens
 
 These visuals showcase the app's complete overhaul: from XML, RxJava, MVVM, Java, and multi-threading to Jetpack Compose, Flows (mainly StateFlow and CallbackFlow), MVVM Clean, Kotlin, Coroutines, and TDD with Unit, Instrumentation, and UI testing. Github Actions handle CI/CD.
 
-  Login with Credentials   |   Login with Biometrics                            
-:-------------------------:|:-------------------------:
-![](/assets/vid/spendlink/Login_With_Credentials.gif) | ![](assets/vid/spendlink/Login_With_Biometrics.gif)
+
+   Landing    |   Dashboard                            
+:------------:|:-------------:
+![](/assets/vid/spendlink/Landing.gif) | ![](assets/vid/spendlink/Dashboard.gif)
 
 <details><summary><span style="color:blue"><font size="3"><b>Load more...</b></font></span></summary>
 
 
-
- 
-   Landing    |   Dashboard                            
-:------------:|:-------------:
-![](/assets/vid/spendlink/Landing.gif) | ![](assets/vid/spendlink/Dashboard.gif)
+  Login with Credentials   |   Login with Biometrics                            
+:-------------------------:|:-------------------------:
+![](/assets/vid/spendlink/Login_With_Credentials.gif) | ![](assets/vid/spendlink/Login_With_Biometrics.gif)
 
   Expense Details   |   Cards                            
 :------------------:|:--------:
@@ -52,23 +51,22 @@ These visuals showcase the app's complete overhaul: from XML, RxJava, MVVM, Java
 ````
 
 
+
 ## **Ahmednagar Pay Tax**
 
 Simplify your life in Ahmednagar with the official AMC app! Find contact information for officials, explore all city services, and navigate with the built-in map. Plus, pay your property and water taxes conveniently using your debit or credit card. 
 
- Registration & Login   |   Login                            
-:----------------------:|:--------:
-![](/assets/vid/ahmednagar/Registration_Login.gif) | ![](assets/vid/ahmednagar/Login.gif)
+  Post Login   |   Navigation                            
+:-------------:|:-------------:
+![](/assets/vid/ahmednagar/Post_Login_Landing.gif) | ![](assets/vid/ahmednagar/Landing.gif)
 
 
 <details><summary><span style="color:blue"><font size="3"><b>Load more...</b></font></span></summary>
 
 
-
- 
-  Post Login   |   Landing                            
-:-------------:|:-------------:
-![](/assets/vid/ahmednagar/Post_Login_Landing.gif) | ![](assets/vid/ahmednagar/Landing.gif)
+ Registration & Login   |   Login                            
+:----------------------:|:--------:
+![](/assets/vid/ahmednagar/Registration_Login.gif) | ![](assets/vid/ahmednagar/Login.gif)
 
   Local map                             
 :------------:
