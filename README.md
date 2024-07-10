@@ -69,9 +69,9 @@ Simplify your life in Ahmednagar with the official AMC app! Find contact informa
 :----------------------:|:--------:
 ![](/assets/vid/ahmednagar/Registration_Login.gif)<span style="color:white">{: width="50%"}</span> | ![](assets/vid/ahmednagar/Login.gif)<span style="color:white">{: width="50%"}</span>
 
-  Local map                             
-:------------:
-![](/assets/vid/ahmednagar/Local_Map.gif)
+  Local map   |                             
+:------------:|:--------:
+![](/assets/vid/ahmednagar/Local_Map.gif)<span style="color:white">{: width="50%"}</span> | ![](assets/img/Blank.png)<span style="color:white">{: width="50%"}</span>
 
 
 </details> 
