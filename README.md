@@ -22,19 +22,16 @@ Tired of waiting for slow credit card reports? SpendLink offers real-time expens
 
 These visuals showcase the app's complete overhaul: from XML, RxJava, MVVM, Java, and multi-threading to Jetpack Compose, Flows (mainly StateFlow and CallbackFlow), MVVM Clean, Kotlin, Coroutines, and TDD with Unit, Instrumentation, and UI testing. Github Actions handle CI/CD.
 
-  Landing   |   Dashboard      
-
-<p align="center">
-      <img src="/assets/vid/spendlink/Landing.gif" align="left">
-      <img src="assets/vid/spendlink/Dashboard.gif" align="right">
-</p>
+  Landing   |   Dashboard                            
+:----------:|:-------------:     
+![](/assets/vid/spendlink/Landing.gif) | ![](assets/vid/spendlink/Dashboard.gif)
 
 <details><summary><span style="color:blue"><font size="3"><b>Load more...</b></font></span></summary>
 
 
   Login with Credentials   |   Login with Biometrics                            
 :-------------------------:|:-------------------------:
-<img src="/assets/vid/spendlink/Login_With_Credentials.gif" width=80% height=80%> | <img src="assets/vid/spendlink/Login_With_Biometrics.gif" width=75% height=75%>
+![](/assets/vid/spendlink/Login_With_Credentials.gif) | ![](assets/vid/spendlink/Login_With_Biometrics.gif)
 
   Expense Details   |   Cards                            
 :------------------:|:--------:
