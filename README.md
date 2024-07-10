@@ -29,3 +29,15 @@ These images & videos demonstrate that the app has been refactored from XML, RxJ
   Landing   |   Dashboard                            
 :----------:|:-------------:
 ![](/assets/vid/Landing.gif) | ![](assets/vid/Dashboard.gif)
+
+  Expense Details   |   Cards                            
+:------------------:|:--------:
+![](/assets/vid/Expense_Details.gif) | ![](assets/vid/Cards.gif)
+
+  Create Expense   |   Create Card                            
+:-----------------:|:--------------:
+![](/assets/vid/Create_Expense.gif) | ![](assets/vid/Create_Card.gif)
+
+  White Labeling   |   Old App                            
+:-----------------:|:----------:
+![](/assets/vid/White-Labeling.gif) | ![](assets/vid/Old_App.gif)
