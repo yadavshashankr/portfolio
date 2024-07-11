@@ -64,8 +64,8 @@ This app is designed to streamline the process of issuing fines for littering on
 
 <details><summary><span style="color:blue"><font size="3"><b>Load more...</b></font></span></summary>
 
-  Create service   |   <span style="color:white">" "</span>                        
-:-----------------:|:---------:
+  Login   |   <span style="color:white">" "</span>                        
+:--------:|:---------:
 ![](/assets/vid/spotfine/Login.gif)<span style="color:white">{: width="50%"}</span> | ![](assets/img/Blank.png)<span style="color:white">{: width="50%"}</span>
 
 
