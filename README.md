@@ -1,4 +1,4 @@
-<p align="center"> <h1> Full-Stack Mobile Application Developer </h1> </p>
+# Full-Stack Mobile Application Developer  ## Android | iOS | React-Native
 
 ### Technical Skills:
  - **UI** - Jetpack Compose, XML, Data/View Bindings, JavaScript, TypeScript, HTML, CSS
