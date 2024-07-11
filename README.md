@@ -1,4 +1,4 @@
-# Full-Stack Mobile Application Developer  ## Android | iOS | React-Native
+# Full-Stack Mobile Application Developer Android | iOS | React-Native
 
 ### Technical Skills:
  - **UI** - Jetpack Compose, XML, Data/View Bindings, JavaScript, TypeScript, HTML, CSS
