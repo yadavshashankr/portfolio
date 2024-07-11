@@ -53,6 +53,28 @@ These visuals showcase the app's complete overhaul: from XML, RxJava, MVVM, Java
 <br />
 
 
+## **SpotFine**
+
+This app is designed to streamline the process of issuing fines for littering on public property. Authorized personnel can use the app to record the offense, generate receipts with detailed information, and even works with Point of Sale devices for easy on-site transactions. It essentially helps manage littering fines, from issuance to reporting.
+
+  Create Service   |    Dark Mode                            
+:-----------------:|:---------------:
+![](/assets/vid/spotfine/Create_Service.gif)<span style="color:white">{: width="50%"}</span> | ![](assets/vid/spotfine/Night_Mode.gif)<span style="color:white">{: width="50%"}</span>
+
+
+<details><summary><span style="color:blue"><font size="3"><b>Load more...</b></font></span></summary>
+
+  Create service   |   <span style="color:white">" "</span>                        
+:-----------------:|:---------:
+![](/assets/vid/spotfine/Login.gif)<span style="color:white">{: width="50%"}</span> | ![](assets/img/Blank.png)<span style="color:white">{: width="50%"}</span>
+
+
+</details> 
+<br />
+<br />
+<br />
+
+
 ## **Ahmednagar Pay Tax**
 
 Simplify your life in Ahmednagar with the official AMC app! Find contact information for officials, explore all city services, and navigate with the built-in map. Plus, pay your property and water taxes conveniently using your debit or credit card. 
