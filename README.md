@@ -1,4 +1,4 @@
-# Mobile Developer
+# Full-Stack Mobile Application Developer
 
 ### Technical Skills:
  - **UI** - Jetpack Compose, XML, Data/View Bindings, JavaScript, TypeScript, HTML, CSS
