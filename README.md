@@ -1,8 +1,8 @@
-# Full-Stack Mobile Application Developer Android | iOS | React-Native
+# Android Developer
 
 ### Technical Skills:
- - **UI** - Jetpack Compose, XML, Data/View Bindings, JavaScript, TypeScript, HTML, CSS
- - **Programming** - Java, Kotlin, Yaml, JavaScript, TypeScript, C++, Batch, Shell
+ - **UI** - Jetpack Compose, XML, Data/View Bindings, HTML, CSS
+ - **Programming** - Java, Kotlin, Yaml, C++, Batch, Shell
  - **CI-CD** - GitHub Actions, GitLab, fastlane, Firebase, Play Console
  - **Implementation & Architectures** - SOLID principles, Test Driven Development(TDD), Reactive, Declarative, MVC, MVP, MVVM Clean
  - **Reactive** - Flows, RxJava, LiveData
