@@ -7,6 +7,7 @@
  - **Implementation & Architectures** - SOLID principles, Test Driven Development(TDD), Reactive, Declarative, MVC, MVP, MVVM Clean
  - **Reactive** - Flows, RxJava, LiveData
  - **Concurrency** - Multithreading, Coroutines
+ - **Sensors** - Camera, GPS, Heart-Rate, Bluetooth, NFC, Accelerometer, Wifi
  - **Database** - RoomDB, SQLite, Realm, Firebase-RTD
  - **Dependency-Injection** - Dagger-Hilt, Dagger 2, Koin
  - **Testing** - JUnit, Instrumentation, Mockito, Espresso
