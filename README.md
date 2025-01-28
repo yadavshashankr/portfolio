@@ -27,28 +27,7 @@ These visuals showcase the app's complete overhaul: from XML, RxJava, MVVM, Java
 :----------:|:-------------:     
 ![alt](/assets/vid/spendlink/Landing.gif)<span style="color:white">{: width="50%"}</span>   | ![](assets/vid/spendlink/Dashboard.gif)<span style="color:white">{: width="50%"}</span> 
 
-<details><summary><span style="color:blue"><font size="3"><b>Load more...</b></font></span></summary>
-
-
-  Login with Credentials   |   Login with Biometrics                            
-:-------------------------:|:-------------------------:
-![](/assets/vid/spendlink/Login_With_Credentials.gif)<span style="color:white">{: width="50%"}</span> | ![](assets/vid/spendlink/Login_With_Biometrics.gif)<span style="color:white">{: width="50%"}</span>
-
-  Expense Details   |   Cards                            
-:------------------:|:--------:
-![](/assets/vid/spendlink/Expense_Details.gif)<span style="color:white">{: width="50%"}</span> | ![](assets/vid/spendlink/Cards.gif)<span style="color:white">{: width="50%"}</span>
-
-  Create Expense   |   Create Card                            
-:-----------------:|:--------------:
-![](/assets/vid/spendlink/Create_Expense.gif)<span style="color:white">{: width="50%"}</span> | ![](assets/vid/spendlink/Create_Card.gif)<span style="color:white">{: width="50%"}</span>
-
-  White Labeling   |   Old App                            
-:-----------------:|:----------:
-![](/assets/vid/spendlink/White-Labeling.gif)<span style="color:white">{: width="50%"}</span> | ![](assets/vid/spendlink/Old_App.gif)<span style="color:white">{: width="50%"}</span>
-
-
-
-</details>
+<a href="{{ /SPENDLINK.md }}" target="_blank">Load more...</a>
 <br />
 <br />
 <br />
