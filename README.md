@@ -1,4 +1,4 @@
-# Android Developer
+# Android Developer  <a href=https://www.linkedin.com/in/shashank-yadav-91a228a3/><img src=/assets/social/LinkedIN.png></img></a>
 
 ### Technical Skills:
  - **UI** - Jetpack Compose, XML, Data/View Bindings, HTML, CSS
