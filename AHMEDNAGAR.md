@@ -7,10 +7,6 @@ Simplify your life in Ahmednagar with the official AMC app! Find contact informa
 :---------------:|:---------------:
 ![](/assets/vid/ahmednagar/Post_Login_Landing.gif)<span style="color:white">{: width="50%"}</span> | ![](assets/vid/ahmednagar/Landing.gif)<span style="color:white">{: width="50%"}</span>
 
-
-<details><summary><span style="color:blue"><font size="3"><b>Load more...</b></font></span></summary>
-
-
  Registration & Login   |   Login                            
 :----------------------:|:--------:
 ![](/assets/vid/ahmednagar/Registration_Login.gif)<span style="color:white">{: width="50%"}</span> | ![](assets/vid/ahmednagar/Login.gif)<span style="color:white">{: width="50%"}</span>
@@ -19,8 +15,6 @@ Simplify your life in Ahmednagar with the official AMC app! Find contact informa
 :------------:|:--------:
 ![](/assets/vid/ahmednagar/Local_Map.gif)<span style="color:white">{: width="50%"}</span> | ![](assets/img/Blank.png)<span style="color:white">{: width="50%"}</span>
 
-
-</details> 
 <br />
 <br />
 <br />
