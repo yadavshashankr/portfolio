@@ -1,4 +1,4 @@
-<a href=/portfolio/><h3><b>Back<b><h3></a>
+<a href=/portfolio/><h3><b>Back</b></h3></a>
 # **SpotFine**
 
 This app is designed to streamline the process of issuing fines for littering on public property. Authorized personnel can use the app to record the offense, generate receipts with detailed information, and even works with Point of Sale devices for easy on-site transactions. It essentially helps manage littering fines, from issuance to reporting.
