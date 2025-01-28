@@ -1,24 +1,5 @@
-# Android Developer
-
-### Technical Skills:
- - **UI** - Jetpack Compose, XML, Data/View Bindings, HTML, CSS
- - **Programming** - Java, Kotlin, Yaml, C++, Batch, Shell
- - **CI-CD** - GitHub Actions, GitLab, fastlane, Firebase, Play Console
- - **Implementation & Architectures** - SOLID principles, Test Driven Development(TDD), Reactive, Declarative, MVC, MVP, MVVM Clean
- - **Reactive** - Flows, RxJava, LiveData
- - **Concurrency** - Multithreading, Coroutines
- - **Sensors** - Camera, GPS, Heart-Rate, Bluetooth, NFC, Accelerometer, Wifi
- - **Database** - RoomDB, SQLite, Realm, Firebase-RTD
- - **Dependency-Injection** - Dagger-Hilt, Dagger 2, Koin
- - **Testing** - JUnit, Instrumentation, Mockito, Espresso
- - **Performance analytics** - Profiling for memory, storage, energy. Memory leaks removal
- - **Source control / Versioning** - Git, Github, SVN
- - **Devices** - Smartphones, Watches, Tablets, KIOSK, Point of Sale, Thermal Printers
- 
-# Portfolio
-
-
-## **SpotFine**
+<a href=/portfolio/>Back</a>
+# **SpotFine**
 
 This app is designed to streamline the process of issuing fines for littering on public property. Authorized personnel can use the app to record the offense, generate receipts with detailed information, and even works with Point of Sale devices for easy on-site transactions. It essentially helps manage littering fines, from issuance to reporting.
 

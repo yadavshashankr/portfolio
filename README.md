@@ -42,14 +42,7 @@ This app is designed to streamline the process of issuing fines for littering on
 ![](/assets/vid/spotfine/Create_Service.gif)<span style="color:white">{: width="50%"}</span> | ![](assets/vid/spotfine/Night_Mode.gif)<span style="color:white">{: width="50%"}</span>
 
 
-<details><summary><span style="color:blue"><font size="3"><b>Load more...</b></font></span></summary>
-
-  Login   |   <span style="color:white">" "</span>                        
-:--------:|:---------:
-![](/assets/vid/spotfine/Login.gif)<span style="color:white">{: width="50%"}</span> | ![](assets/img/Blank.png)<span style="color:white">{: width="50%"}</span>
-
-
-</details> 
+<a href=/portfolio/SPOTFINE>Load more...</a>
 <br />
 <br />
 <br />
@@ -64,19 +57,7 @@ Simplify your life in Ahmednagar with the official AMC app! Find contact informa
 ![](/assets/vid/ahmednagar/Post_Login_Landing.gif)<span style="color:white">{: width="50%"}</span> | ![](assets/vid/ahmednagar/Landing.gif)<span style="color:white">{: width="50%"}</span>
 
 
-<details><summary><span style="color:blue"><font size="3"><b>Load more...</b></font></span></summary>
-
-
- Registration & Login   |   Login                            
-:----------------------:|:--------:
-![](/assets/vid/ahmednagar/Registration_Login.gif)<span style="color:white">{: width="50%"}</span> | ![](assets/vid/ahmednagar/Login.gif)<span style="color:white">{: width="50%"}</span>
-
-  Local map   |   <span style="color:white">" "</span>                        
-:------------:|:--------:
-![](/assets/vid/ahmednagar/Local_Map.gif)<span style="color:white">{: width="50%"}</span> | ![](assets/img/Blank.png)<span style="color:white">{: width="50%"}</span>
-
-
-</details> 
+<a href=/portfolio/AHMEDNAGAR>Load more...</a>
 <br />
 <br />
 <br />
@@ -91,18 +72,7 @@ The Virar-Vasai Municipal Corporation offers a convenient mobile app for its res
 ![](/assets/vid/vclick/Language_Localization.gif)<span style="color:white">{: width="50%"}</span> | ![](assets/vid/vclick/Home.gif)<span style="color:white">{: width="50%"}</span>
 
 
-<details><summary><span style="color:blue"><font size="3"><b>Load more...</b></font></span></summary>
-
-
- Registration & Login   |   Login                            
-:----------------------:|:--------:
-![](/assets/vid/vclick/Registration_Login.gif)<span style="color:white">{: width="50%"}</span> | ![](assets/vid/vclick/Login.gif)<span style="color:white">{: width="50%"}</span>
-
-  Landing   |   Utilities                        
-:------------:|:-----------:
-![](/assets/vid/vclick/Landing.gif)<span style="color:white">{: width="50%"}</span> | ![](assets/vid/vclick/Utilities.gif)<span style="color:white">{: width="50%"}</span>
-
-  Services   |   <span style="color:white">" "</span>                        
-:------------:|:--------:
-![](/assets/vid/vclick/Services.gif)<span style="color:white">{: width="50%"}</span> | ![](assets/img/Blank.png)<span style="color:white">{: width="50%"}</span>
-</details> 
+<a href=/portfolio/VCLICK>Load more...</a>
+<br />
+<br />
+<br />
