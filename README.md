@@ -1,7 +1,7 @@
 <a href="https://play.google.com/store/apps/details?id=com.shashank.memebase&hl=en" target="_blank"><img src=/portfolio/assets/social/PlayStore.png width="25" height="25"></img></a> &emsp; <a href=https://www.linkedin.com/in/shashank-yadav-91a228a3/ target="_blank"><img src=/portfolio/assets/social/LinkedIN.png width="25" height="25"></img></a> &emsp; <a href=https://wa.me/7021373495 target="_blank"><img src=/portfolio/assets/social/WhatsApp.png width="25" height="25"></img></a> &emsp; <a href=mailto:yadav.r.shashank@gmail.com target="_blank"><img src=/portfolio/assets/social/Email.png width="25" height="25"></img></a> &emsp; <a href="https://github.com/yadavshashankr" target="_blank"><img src=/portfolio/assets/social/GithubLogo.png width="25" height="25"></img></a>
 
 # Mobile Application Developer
-<img src=/portfolio/assets/technologies/ANI.gif width="122" height="48"></img>  &emsp; <img src=/portfolio/assets/technologies/WO.png width="45" height="45"></img>  &emsp; <img src=/portfolio/assets/technologies/AndroidWatch.png width="29" height="45"></img>
+<img src=/portfolio/assets/technologies/ANI.gif width="122" height="48"></img>  &emsp; <img src=/portfolio/assets/technologies/WatchOS.png width="45" height="45"></img>  &emsp; <img src=/portfolio/assets/technologies/AWatch.png width="29" height="45"></img>
 
 ### Technical Skills:
  - **UI** - Jetpack Compose, XML, Data/View Bindings, SwiftUI, HTML, CSS
