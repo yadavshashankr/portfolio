@@ -3,8 +3,6 @@
 # Mobile Application Developer
 <img src=/portfolio/assets/technologies/ANI.gif width="122" height="48">  
 
-<br />
-
 ### Technical Skills:
  - **UI** - Jetpack Compose, XML, Data/View Bindings, SwiftUI, HTML, CSS
  - **Programming** - Java, Kotlin, Objective-C, Swift, Yaml, C++, Batch, Shell, Javascript, Typescript
