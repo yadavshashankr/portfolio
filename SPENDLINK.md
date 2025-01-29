@@ -1,6 +1,8 @@
+<a href="https://play.google.com/store/apps/details?id=com.shashank.memebase&hl=en" target="_blank"><img src=/portfolio/assets/social/PlayStore.png width="25" height="25"></img></a> &emsp; <a href=https://www.linkedin.com/in/shashank-yadav-91a228a3/ target="_blank"><img src=/portfolio/assets/social/LinkedIN.png width="25" height="25"></img></a> &emsp; <a href=https://wa.me/7021373495 target="_blank"><img src=/portfolio/assets/social/WhatsApp.png width="25" height="25"></img></a> &emsp; <a href=mailto:yadav.r.shashank@gmail.com target="_blank"><img src=/portfolio/assets/social/Email.png width="25" height="25"></img></a> &emsp; <a href="https://github.com/yadavshashankr" target="_blank"><img src=/portfolio/assets/social/GithubLogo.png width="25" height="25"></img></a>
 
 <a href=/portfolio><h1><b>🔙</b></h1></a>
-# **SpendLink**    <a href=https://www.linkedin.com/in/shashank-yadav-91a228a3/ target="_blank"><img src=/portfolio/assets/social/LinkedIN.png width="25" height="25"></img></a>  <a href=https://wa.me/7021373495 target="_blank"><img src=/portfolio/assets/social/WhatsApp.png width="25" height="25"></img></a> <a href=mailto:yadav.r.shashank@gmail.com target="_blank"><img src=/portfolio/assets/social/Email.png width="25" height="25"></img></a>
+
+# **SpendLink**
 
 Tired of waiting for slow credit card reports? SpendLink offers real-time expense tracking and individual card management, eliminating delays and unnecessary processes.
 

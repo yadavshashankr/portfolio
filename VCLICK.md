@@ -1,5 +1,8 @@
+<a href="https://play.google.com/store/apps/details?id=com.shashank.memebase&hl=en" target="_blank"><img src=/portfolio/assets/social/PlayStore.png width="25" height="25"></img></a> &emsp; <a href=https://www.linkedin.com/in/shashank-yadav-91a228a3/ target="_blank"><img src=/portfolio/assets/social/LinkedIN.png width="25" height="25"></img></a> &emsp; <a href=https://wa.me/7021373495 target="_blank"><img src=/portfolio/assets/social/WhatsApp.png width="25" height="25"></img></a> &emsp; <a href=mailto:yadav.r.shashank@gmail.com target="_blank"><img src=/portfolio/assets/social/Email.png width="25" height="25"></img></a> &emsp; <a href="https://github.com/yadavshashankr" target="_blank"><img src=/portfolio/assets/social/GithubLogo.png width="25" height="25"></img></a>
+
 <a href=/portfolio><h1><b>🔙</b></h1></a>
-# **VClick**    <a href=https://www.linkedin.com/in/shashank-yadav-91a228a3/ target="_blank"><img src=/portfolio/assets/social/LinkedIN.png width="25" height="25"></img></a>  <a href=https://wa.me/7021373495 target="_blank"><img src=/portfolio/assets/social/WhatsApp.png width="25" height="25"></img></a> <a href=mailto:yadav.r.shashank@gmail.com target="_blank"><img src=/portfolio/assets/social/Email.png width="25" height="25"></img></a>
+
+# **VClick**
 
 The Virar-Vasai Municipal Corporation offers a convenient mobile app for its residents.  You can easily pay your Property and Water Taxes digitally using debit or credit cards. The app goes beyond just payments, providing access to important information like emergency services contact details, Virar Municipal Corporation delegate contacts, bus timings for travel outside Virar, and even weather forecasts for major cities across Mumbai. 
 
