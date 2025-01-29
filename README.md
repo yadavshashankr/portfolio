@@ -1,19 +1,22 @@
 <a href="https://play.google.com/store/apps/details?id=com.shashank.memebase&hl=en" target="_blank"><img src=/portfolio/assets/social/PlayStore.png width="25" height="25"></img></a> &emsp; <a href=https://www.linkedin.com/in/shashank-yadav-91a228a3/ target="_blank"><img src=/portfolio/assets/social/LinkedIN.png width="25" height="25"></img></a> &emsp; <a href=https://wa.me/7021373495 target="_blank"><img src=/portfolio/assets/social/WhatsApp.png width="25" height="25"></img></a> &emsp; <a href=mailto:yadav.r.shashank@gmail.com target="_blank"><img src=/portfolio/assets/social/Email.png width="25" height="25"></img></a> &emsp; <a href="https://github.com/yadavshashankr" target="_blank"><img src=/portfolio/assets/social/GithubLogo.png width="25" height="25"></img></a>
 
-# Android Developer
+# Mobile Developer
+
+<img src=/portfolio/assets/technologies/Android_iOS.png width="128" height="54">
 
 ### Technical Skills:
- - **UI** - Jetpack Compose, XML, Data/View Bindings, HTML, CSS
- - **Programming** - Java, Kotlin, Yaml, C++, Batch, Shell
- - **CI-CD** - GitHub Actions, GitLab, fastlane, Firebase, Play Console
- - **Implementation & Architectures** - SOLID principles, Test Driven Development(TDD), Reactive, Declarative, MVC, MVP, MVVM Clean
+ - **UI** - Jetpack Compose, XML, Data/View Bindings, SwiftUI, HTML, CSS
+ - **Programming** - Java, Kotlin, Objective-C, Swift, Yaml, C++, Batch, Shell, Javascript, Typescript
+ - **CI-CD** - GitHub Actions, Azure DevOps, GitLab, fastlane, Firebase, Play Console
+ - **Implementation & Architectures** - SOLID principles, Test Driven Development(TDD), Reactive, Declarative, Deep Linking, Modular, MVC, MVP, MVVM Clean
  - **Reactive** - Flows, RxJava, LiveData
  - **Concurrency** - Multithreading, Coroutines
+ - **Networking** - REST, SOAP, Retrofit, OkHttp
  - **Sensors** - Camera, GPS, Heart-Rate, Bluetooth, NFC, Accelerometer, Wifi
  - **Database** - RoomDB, SQLite, Realm, Firebase-RTD
  - **Dependency-Injection** - Dagger-Hilt, Dagger 2, Koin
  - **Testing** - JUnit, Instrumentation, Mockito, Espresso
- - **Performance analytics** - Profiling for memory, storage, energy. Memory leaks removal
+ - **Performance analytics** - Profiling for memory, storage, energy. Memory leaks
  - **Source control / Versioning** - Git, Github, SVN
  - **Devices** - Smartphones, Watches, Tablets, KIOSK, Point of Sale, Thermal Printers
  
