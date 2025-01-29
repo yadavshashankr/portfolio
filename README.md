@@ -2,7 +2,7 @@
 
 # Mobile Developer
 
-<img src=/portfolio/assets/technologies/Android_iOS.png width="128" height="54">
+<img src=/portfolio/assets/technologies/Android_iOS.jpg width="128" height="54">
 
 ### Technical Skills:
  - **UI** - Jetpack Compose, XML, Data/View Bindings, SwiftUI, HTML, CSS
