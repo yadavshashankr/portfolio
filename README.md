@@ -1,7 +1,9 @@
 <a href="https://play.google.com/store/apps/details?id=com.shashank.memebase&hl=en" target="_blank"><img src=/portfolio/assets/social/PlayStore.png width="25" height="25"></img></a> &emsp; <a href=https://www.linkedin.com/in/shashank-yadav-91a228a3/ target="_blank"><img src=/portfolio/assets/social/LinkedIN.png width="25" height="25"></img></a> &emsp; <a href=https://wa.me/7021373495 target="_blank"><img src=/portfolio/assets/social/WhatsApp.png width="25" height="25"></img></a> &emsp; <a href=mailto:yadav.r.shashank@gmail.com target="_blank"><img src=/portfolio/assets/social/Email.png width="25" height="25"></img></a> &emsp; <a href="https://github.com/yadavshashankr" target="_blank"><img src=/portfolio/assets/social/GithubLogo.png width="25" height="25"></img></a>
 
-# Mobile Developer
+# Mobile Application Developer
 <img src=/portfolio/assets/technologies/ANI.gif width="122" height="48">
+
+<br />
 
 ### Technical Skills:
  - **UI** - Jetpack Compose, XML, Data/View Bindings, SwiftUI, HTML, CSS
@@ -34,7 +36,6 @@ These visuals showcase the app's complete overhaul: from XML, RxJava, MVVM, Java
 <a href=/portfolio/SPENDLINK><h3><b>Load more...</b></h3></a>
 <br />
 <br />
-<br />
 
 
 ## **SpotFine**
@@ -47,7 +48,6 @@ This app is designed to streamline the process of issuing fines for littering on
 
 
 <a href=/portfolio/SPOTFINE><h3><b>Load more...</b></h3></a>
-<br />
 <br />
 <br />
 
@@ -64,7 +64,6 @@ Simplify your life in Ahmednagar with the official AMC app! Find contact informa
 <a href=/portfolio/AHMEDNAGAR><h3><b>Load more...</b></h3></a>
 <br />
 <br />
-<br />
 
 
 ## **VClick**
@@ -77,6 +76,4 @@ The Virar-Vasai Municipal Corporation offers a convenient mobile app for its res
 
 
 <a href=/portfolio/VCLICK><h3><b>Load more...</b></h3></a>
-<br />
-<br />
 <br />
