@@ -3,7 +3,7 @@
 # Mobile Application Developer
 <img src=/portfolio/assets/technologies/ANI.gif width="122" height="48"></img> 
 
-<a href=/portfolio font size="400"><b>🔙</b></a>
+<a href=/portfolio style="font-size: 100px"><b>🔙</b></a>
 
 # **SpendLink**
 
