@@ -1,7 +1,7 @@
 <a href="https://play.google.com/store/apps/details?id=com.shashank.memebase&hl=en" target="_blank"><img src=/portfolio/assets/social/PlayStore.png width="25" height="25"></img></a> &emsp; <a href=https://www.linkedin.com/in/shashank-yadav-91a228a3/ target="_blank"><img src=/portfolio/assets/social/LinkedIN.png width="25" height="25"></img></a> &emsp; <a href=https://wa.me/7021373495 target="_blank"><img src=/portfolio/assets/social/WhatsApp.png width="25" height="25"></img></a> &emsp; <a href=mailto:yadav.r.shashank@gmail.com target="_blank"><img src=/portfolio/assets/social/Email.png width="25" height="25"></img></a> &emsp; <a href="https://github.com/yadavshashankr" target="_blank"><img src=/portfolio/assets/social/GithubLogo.png width="25" height="25"></img></a>
 
 # Mobile Developer
-<img src=/portfolio/assets/technologies/AI.jpg width="130" height="70.25">
+<img src=/portfolio/assets/technologies/ANI.jpg width="130" height="70.25">
 
 ### Technical Skills:
  - **UI** - Jetpack Compose, XML, Data/View Bindings, SwiftUI, HTML, CSS
