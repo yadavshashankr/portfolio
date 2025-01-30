@@ -2,7 +2,7 @@
 
 <a href="javascript: history.go(-1)" style="font-size: 37px"><b>🔙</b></a>
 
-# **SpendLink**
+# <div id="spndlnk"></div>**SpendLink**
 
 Tired of waiting for slow credit card reports? SpendLink offers real-time expense tracking and individual card management, eliminating delays and unnecessary processes.
 
@@ -34,6 +34,6 @@ These visuals showcase the app's complete overhaul: from XML, RxJava, MVVM, Java
 window.onload = function() {
     // short timeout
     setTimeout(function() {
-        $(document.body).scrollTop(500);
+        $(document.body).scrollBottom(500);
     }, 15);
 };
