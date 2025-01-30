@@ -30,4 +30,10 @@ These visuals showcase the app's complete overhaul: from XML, RxJava, MVVM, Java
 
 <br />
 <br />
-<br />
+
+window.onload = function() {
+    // short timeout
+    setTimeout(function() {
+        $(document.body).scrollTop(500);
+    }, 15);
+};
