@@ -23,5 +23,3 @@ The Virar-Vasai Municipal Corporation offers a convenient mobile app for its res
 ![](/assets/vid/vclick/Services.gif)<span style="color:white">{: width="50%"}</span> | ![](assets/img/Blank.png)<span style="color:white">{: width="50%"}</span>
 
 <br />
-<br />
-<br />

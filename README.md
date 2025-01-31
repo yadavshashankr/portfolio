@@ -33,7 +33,6 @@ These visuals showcase the app's complete overhaul: from XML, RxJava, MVVM, Java
 
 <a href=/portfolio/SPENDLINK><h3><b>Load more...</b></h3></a>
 <br />
-<br />
 
 
 ## **SpotFine**
@@ -47,7 +46,6 @@ This app is designed to streamline the process of issuing fines for littering on
 
 <a href=/portfolio/SPOTFINE><h3><b>Load more...</b></h3></a>
 <br />
-<br />
 
 
 ## **Ahmednagar Pay Tax**
@@ -60,7 +58,6 @@ Simplify your life in Ahmednagar with the official AMC app! Find contact informa
 
 
 <a href=/portfolio/AHMEDNAGAR><h3><b>Load more...</b></h3></a>
-<br />
 <br />
 
 

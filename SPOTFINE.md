@@ -15,5 +15,3 @@ This app is designed to streamline the process of issuing fines for littering on
 ![](/assets/vid/spotfine/Login.gif)<span style="color:white">{: width="50%"}</span> | ![](assets/img/Blank.png)<span style="color:white">{: width="50%"}</span>
 
 <br />
-<br />
-<br />
