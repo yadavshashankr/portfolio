@@ -1,6 +1,18 @@
+---
 title: Shashank Yadav
 logo: /assets/img/headshot_circle.png
 #description: text below image
 show_downloads: false
 theme: jekyll-theme-minimal
 markdown: GFM
+---
+
+<style type="text/css">
+
+h1.title {
+  font-size: 38px;
+  color: DarkBlue;
+  text-align: center;
+}
+</style>
+
