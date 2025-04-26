@@ -30,4 +30,4 @@ These visuals showcase the app's complete overhaul: from XML, RxJava, MVVM, Java
 
 <br />
 <br />
-$("html, body").animate({ scrollTop: "1000px" });
+document.documentElement.scrollTop = document.body.scrollTop = 1000;
