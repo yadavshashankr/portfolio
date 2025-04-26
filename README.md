@@ -31,7 +31,7 @@ These visuals showcase the app's complete overhaul: from XML, RxJava, MVVM, Java
 :----------:|:-------------:     
 ![alt](/assets/vid/spendlink/Landing.gif)<span style="color:white">{: width="50%"}</span>   | ![](assets/vid/spendlink/Dashboard.gif)<span style="color:white">{: width="50%"}</span> 
 
-<a href=/portfolio/SPENDLINK/section-2><h3><b>Load more...</b></h3></a>
+<a href=/portfolio/SPENDLINK#section-2><h3><b>Load more...</b></h3></a>
 <br />
 
 
