@@ -4,7 +4,7 @@
 
 <h1 id="title">SpendLink</h1>
 
-![alt](/assets/ui/underline.gif)<span style="color:white">{: width="20%" height="15%"}</span>
+![alt](/assets/ui/underline.gif)<span style="color:white">{: width="2%" height="1%"}</span>
 
   Landing   |   Dashboard                            
 :----------:|:-------------:     
