@@ -2,7 +2,7 @@
 
 <a href="javascript: history.go(-1)" style="font-size: 37px"><b>🔙</b></a>
 
-# **VClick**
+<h1 id="title">VClick</h1>
 
 The Virar-Vasai Municipal Corporation offers a convenient mobile app for its residents.  You can easily pay your Property and Water Taxes digitally using debit or credit cards. The app goes beyond just payments, providing access to important information like emergency services contact details, Virar Municipal Corporation delegate contacts, bus timings for travel outside Virar, and even weather forecasts for major cities across Mumbai. 
 

@@ -31,7 +31,7 @@ These visuals showcase the app's complete overhaul: from XML, RxJava, MVVM, Java
 :----------:|:-------------:     
 ![alt](/assets/vid/spendlink/Landing.gif)<span style="color:white">{: width="50%"}</span>   | ![](assets/vid/spendlink/Dashboard.gif)<span style="color:white">{: width="50%"}</span> 
 
-<a href=/portfolio/SPENDLINK#section-2><h3><b>Load more...</b></h3></a>
+<a href=/portfolio/SPENDLINK#title><h3><b>Load more...</b></h3></a>
 <br />
 
 
@@ -44,7 +44,7 @@ This app is designed to streamline the process of issuing fines for littering on
 ![](/assets/vid/spotfine/Create_Service.gif)<span style="color:white">{: width="50%"}</span> | ![](assets/vid/spotfine/Night_Mode.gif)<span style="color:white">{: width="50%"}</span>
 
 
-<a href=/portfolio/SPOTFINE><h3><b>Load more...</b></h3></a>
+<a href=/portfolio/SPOTFINE#title><h3><b>Load more...</b></h3></a>
 <br />
 
 
@@ -57,7 +57,7 @@ Simplify your life in Ahmednagar with the official AMC app! Find contact informa
 ![](/assets/vid/ahmednagar/Post_Login_Landing.gif)<span style="color:white">{: width="50%"}</span> | ![](assets/vid/ahmednagar/Landing.gif)<span style="color:white">{: width="50%"}</span>
 
 
-<a href=/portfolio/AHMEDNAGAR><h3><b>Load more...</b></h3></a>
+<a href=/portfolio/AHMEDNAGAR#title><h3><b>Load more...</b></h3></a>
 <br />
 
 
@@ -70,5 +70,5 @@ The Virar-Vasai Municipal Corporation offers a convenient mobile app for its res
 ![](/assets/vid/vclick/Language_Localization.gif)<span style="color:white">{: width="50%"}</span> | ![](assets/vid/vclick/Home.gif)<span style="color:white">{: width="50%"}</span>
 
 
-<a href=/portfolio/VCLICK><h3><b>Load more...</b></h3></a>
+<a href=/portfolio/VCLICK#title><h3><b>Load more...</b></h3></a>
 <br />

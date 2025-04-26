@@ -2,7 +2,7 @@
 
 <a href="javascript: history.go(-1)" style="font-size: 37px"><b>🔙</b></a>
 
-# **Ahmednagar Pay Tax**
+<h1 id="title">Ahmednagar Pay Tax</h1>
 
 Simplify your life in Ahmednagar with the official AMC app! Find contact information for officials, explore all city services, and navigate with the built-in map. Plus, pay your property and water taxes conveniently using your debit or credit card. 
 

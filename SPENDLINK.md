@@ -2,7 +2,7 @@
 
 <a href="javascript: history.go(-1)" style="font-size: 37px"><b>🔙</b></a>
 
-<h1 id="section-2">SpendLink</h1>h>
+<h1 id="title">SpendLink</h1>
 
 Tired of waiting for slow credit card reports? SpendLink offers real-time expense tracking and individual card management, eliminating delays and unnecessary processes.
 
