@@ -30,4 +30,4 @@ These visuals showcase the app's complete overhaul: from XML, RxJava, MVVM, Java
 
 <br />
 <br />
-window.pageYOffset = 1000;
+window.scroll(0, 1000);
