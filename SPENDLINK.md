@@ -30,4 +30,4 @@ These visuals showcase the app's complete overhaul: from XML, RxJava, MVVM, Java
 
 <br />
 <br />
-document.documentElement.scrollTop = document.body.scrollTop = 1000;
+window.pageYOffset = 1000;
