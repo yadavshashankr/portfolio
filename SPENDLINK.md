@@ -4,10 +4,6 @@
 
 <h1 id="title">SpendLink</h1>
 
-Tired of waiting for slow credit card reports? SpendLink offers real-time expense tracking and individual card management, eliminating delays and unnecessary processes.
-
-These visuals showcase the app's complete overhaul: from XML, RxJava, MVVM, Java, and multi-threading to Jetpack Compose, Flows (mainly StateFlow and CallbackFlow), MVVM Clean, Kotlin, Coroutines, and TDD with Unit, Instrumentation, and UI testing. Github Actions handle CI/CD.
-
   Landing   |   Dashboard                            
 :----------:|:-------------:     
 ![alt](/assets/vid/spendlink/Landing.gif)<span style="color:white">{: width="50%"}</span>   | ![](assets/vid/spendlink/Dashboard.gif)<span style="color:white">{: width="50%"}</span> 
