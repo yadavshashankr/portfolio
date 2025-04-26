@@ -3,7 +3,7 @@
 <a href="javascript: history.go(-1)" style="font-size: 37px"><b>🔙</b></a>
 
 <h1 id="title">SpendLink</h1>
-![alt](/assets/ui/underline.gif)<span style="color:white">{: width="50" height="20"}</span>
+![alt](/assets/ui/underline.gif)<span style="color:white">{: width="20%" height="15%"}</span>
 
   Landing   |   Dashboard                            
 :----------:|:-------------:     
