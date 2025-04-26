@@ -4,6 +4,8 @@
 
 <h1 id="title">VClick</h1>
 
+![alt](/assets/ui/underline.gif)<span style="color:white">{: width="2%" height="1%"}</span>
+
   Language Localization     |    Home                            
 :--------------------------:|:-------------:
 ![](/assets/vid/vclick/Language_Localization.gif)<span style="color:white">{: width="50%"}</span> | ![](assets/vid/vclick/Home.gif)<span style="color:white">{: width="50%"}</span>

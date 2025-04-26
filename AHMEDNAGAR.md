@@ -4,6 +4,8 @@
 
 <h1 id="title">Ahmednagar Pay Tax</h1>
 
+![alt](/assets/ui/underline.gif)<span style="color:white">{: width="2%" height="1%"}</span>
+
   Post Login     |    Navigation                            
 :---------------:|:---------------:
 ![](/assets/vid/ahmednagar/Post_Login_Landing.gif)<span style="color:white">{: width="50%"}</span> | ![](assets/vid/ahmednagar/Landing.gif)<span style="color:white">{: width="50%"}</span>
