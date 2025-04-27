@@ -4,8 +4,6 @@
 
 <h1 id="title">SpendLink</h1>
 
-![alt](/assets/ui/ul_spendlink.gif)<span style="color:white">{: width="2%" height="1%"}</span>
-
   Landing   |   Dashboard                            
 :----------:|:-------------:     
 ![alt](/assets/vid/spendlink/Landing.gif)<span style="color:white">{: width="50%"}</span>   | ![](assets/vid/spendlink/Dashboard.gif)<span style="color:white">{: width="50%"}</span> 

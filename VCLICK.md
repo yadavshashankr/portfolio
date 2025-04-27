@@ -4,22 +4,20 @@
 
 <h1 id="title">VClick</h1>
 
-![alt](/assets/ui/underline.gif)<span style="color:white">{: width="2%" height="1%"}</span>
+|                                       Language Localization                                       |                                      Home                                       |
+|:-------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------:|
+| ![](/assets/vid/vclick/Language_Localization.gif)<span style="color:white">{: width="50%"}</span> | ![](assets/vid/vclick/Home.gif)<span style="color:white">{: width="50%"}</span> |
 
-  Language Localization     |    Home                            
-:--------------------------:|:-------------:
-![](/assets/vid/vclick/Language_Localization.gif)<span style="color:white">{: width="50%"}</span> | ![](assets/vid/vclick/Home.gif)<span style="color:white">{: width="50%"}</span>
+|                                      Registration & Login                                      |                                      Login                                       |
+|:----------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------:|
+| ![](/assets/vid/vclick/Registration_Login.gif)<span style="color:white">{: width="50%"}</span> | ![](assets/vid/vclick/Login.gif)<span style="color:white">{: width="50%"}</span> |
 
- Registration & Login   |   Login                            
-:----------------------:|:--------:
-![](/assets/vid/vclick/Registration_Login.gif)<span style="color:white">{: width="50%"}</span> | ![](assets/vid/vclick/Login.gif)<span style="color:white">{: width="50%"}</span>
+|                                       Landing                                       |                                      Utilities                                       |
+|:-----------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------:|
+| ![](/assets/vid/vclick/Landing.gif)<span style="color:white">{: width="50%"}</span> | ![](assets/vid/vclick/Utilities.gif)<span style="color:white">{: width="50%"}</span> |
 
-  Landing   |   Utilities                        
-:------------:|:-----------:
-![](/assets/vid/vclick/Landing.gif)<span style="color:white">{: width="50%"}</span> | ![](assets/vid/vclick/Utilities.gif)<span style="color:white">{: width="50%"}</span>
-
-  Services   |   <span style="color:white">" "</span>                        
-:------------:|:--------:
-![](/assets/vid/vclick/Services.gif)<span style="color:white">{: width="50%"}</span> | ![](assets/img/Blank.png)<span style="color:white">{: width="50%"}</span>
+|                                       Services                                       |                   <span style="color:white">" "</span>                    |
+|:------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------:|
+| ![](/assets/vid/vclick/Services.gif)<span style="color:white">{: width="50%"}</span> | ![](assets/img/Blank.png)<span style="color:white">{: width="50%"}</span> |
 
 <br />
