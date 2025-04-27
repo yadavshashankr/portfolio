@@ -4,13 +4,12 @@
 
 <h1 id="title">SpotFine</h1>
 
-  Create Service   |    Dark Mode                            
-:-----------------:|:---------------:
-![](/assets/vid/spotfine/Create_Service.gif)<span style="color:white">{: width="50%"}</span> | ![](assets/vid/spotfine/Night_Mode.gif)<span style="color:white">{: width="50%"}</span>
+|                                        Create Service                                        |                                        Dark Mode                                        |
+|:--------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|
+| ![](/assets/vid/spotfine/Create_Service.gif)<span style="color:white">{: width="50%"}</span> | ![](assets/vid/spotfine/Night_Mode.gif)<span style="color:white">{: width="50%"}</span> |
 
-
-  Login   |   <span style="color:white">" "</span>                        
-:--------:|:---------:
-![](/assets/vid/spotfine/Login.gif)<span style="color:white">{: width="50%"}</span> | ![](assets/img/Blank.png)<span style="color:white">{: width="50%"}</span>
+|                                        Login                                        |                   <span style="color:white">" "</span>                    |
+|:-----------------------------------------------------------------------------------:|:-------------------------------------------------------------------------:|
+| ![](/assets/vid/spotfine/Login.gif)<span style="color:white">{: width="50%"}</span> | ![](assets/img/Blank.png)<span style="color:white">{: width="50%"}</span> |
 
 <br />
