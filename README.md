@@ -69,3 +69,5 @@ The Virar-Vasai Municipal Corporation offers a convenient mobile app for its res
 
 <a href=/portfolio/VCLICK#title><h3><b>Load more...</b></h3></a>
 <br />
+
+![Visitor Count](https://profile-counter.glitch.me/yadavshashankr/count.svg)
