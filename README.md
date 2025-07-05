@@ -3,6 +3,11 @@
 # Mobile Application Developer
 <img src=/portfolio/assets/technologies/ANI.gif width="122" height="48"></img> &nbsp; &emsp; <img src=/portfolio/assets/technologies/Tab.jpg width="40" height="45"></img> &nbsp; &emsp; <img src=/portfolio/assets/technologies/AWatch.png width="29" height="45"></img> &nbsp; &emsp; <img src=/portfolio/assets/technologies/WatchOS.png width="45" height="45"></img> &nbsp;&nbsp;&nbsp;&nbsp; <img src=/portfolio/assets/technologies/Pos.png width="45" height="50"></img>
 
+---
+title: Shashank Yadav
+description: Portfolio
+---
+
 ### Technical Skills:
  - **UI** - Jetpack Compose, XML, Data/View Bindings, SwiftUI, HTML, CSS
  - **Programming** - Java, Kotlin, Objective-C, Swift, Yaml, C++, Batch, Shell, Javascript, Typescript
